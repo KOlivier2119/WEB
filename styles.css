@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    overflow: hidden;
+}
+
+.heading {
+    text-align: center;
+    font-size: 20px;
+}
+
+body {
+    width: 90vw;
+    margin: auto;
+}
+
+ul {
+    padding-top: 40px;
+}
