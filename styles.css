@@ -5,6 +5,13 @@
 .heading {
   text-align: center;
   font-size: 20px;
+  background-color: #7b68ee;
+  padding: 20px;
+  margin-top: 0;
+  color: white;
+  border-bottom: white;
+  width: 96%;
+  margin: auto;
 }
 
 body {
